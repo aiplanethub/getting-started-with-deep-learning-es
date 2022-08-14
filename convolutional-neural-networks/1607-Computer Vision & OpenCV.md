@@ -155,9 +155,9 @@ También habla sobre las redes neuronales convolucionales y su papel crucial en 
 
 ## Visión por computador
 
-La visión por computadora, a menudo abreviada como CV, es un campo de inteligencia artificial que entrena a las computadoras para interpretar y comprender el mundo visual.
+La visión por computadora, a menudo abreviada como CV (Computer Vision), es un campo de inteligencia artificial que entrena a las computadoras para interpretar y comprender el mundo visual.
 
-Desglosándolo en sus palabras constituyentes, Computer Vision = dar visión a las computadoras.
+Desglosándolo en el significado de las palabras que la constituyen, Computer Vision = dar visión a las computadoras.
 
 Usando imágenes digitales de cámaras y videos y modelos de aprendizaje profundo, las máquinas pueden identificar y clasificar objetos con precisión, y luego reaccionar a lo que "ven".
 
