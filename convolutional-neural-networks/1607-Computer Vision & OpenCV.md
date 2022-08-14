@@ -153,7 +153,7 @@ El video se remonta a hace 5 años, pero sigue siendo relevante hoy en día. Ima
 
 También habla sobre las redes neuronales convolucionales y su papel crucial en este dominio. Pronto aprenderemos más sobre CNN a través de una sesión grabada.
 
-## Visión por computador
+## Visión por computadora
 
 La visión por computadora, a menudo abreviada como CV (Computer Vision), es un campo de inteligencia artificial que entrena a las computadoras para interpretar y comprender el mundo visual.
 
@@ -184,7 +184,7 @@ El aprendizaje profundo proporcionó un enfoque fundamentalmente diferente para 
 
 
 _Image source: zbigatron_
-### DL - La estrella de Computer Vision
+### DL - La estrella de la Vision por Computadora
 El aprendizaje profundo es un método muy efectivo para hacer visión artificial. En la mayoría de los casos, la creación de un excelente algoritmo de aprendizaje profundo se reduce a recopilar una gran cantidad de datos de entrenamiento etiquetados y ajustar parámetros como el tipo y la cantidad de capas de redes neuronales y épocas de entrenamiento. En comparación con los tipos anteriores de aprendizaje automático, el aprendizaje profundo es más fácil y rápido de desarrollar e implementar.
 
 La mayoría de las aplicaciones actuales de visión por computadora, como la detección de cáncer, los automóviles autónomos y el reconocimiento facial, utilizan el aprendizaje profundo. Gracias a la disponibilidad y los avances en hardware y recursos de computación en la nube, el aprendizaje profundo y las redes neuronales profundas han pasado del ámbito conceptual a las aplicaciones prácticas.
