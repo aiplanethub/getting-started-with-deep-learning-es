@@ -193,7 +193,7 @@ La mayoría de las aplicaciones actuales de visión por computadora, como la det
 
 #### CV en vehículos autónomos
 
-La visión por computadora permite que los autos sin conductor den sentido a su entorno. Las cámaras capturan video desde diferentes ángulos alrededor del automóvil y lo transmiten al software de visión por computadora, que luego procesa las imágenes en tiempo real para encontrar los extremos de las carreteras, leer las señales de tráfico y detectar otros automóviles, objetos y peatones. El automóvil autónomo puede luego conducir su camino en calles y autopistas, evitar chocar con obstáculos y (con suerte) conducir de manera segura a sus pasajeros a su destino.
+La visión por computadora permite que los autos sin conductor den sentido a su entorno. Las cámaras capturan video desde diferentes ángulos el alrededor del automóvil y lo transmiten al software de visión por computadora, que luego procesa las imágenes en tiempo real para encontrar los extremos de las carreteras, leer las señales de tráfico y detectar otros automóviles, objetos y peatones. El automóvil autónomo puede luego conducir su camino en calles y autopistas, evitar chocar con obstáculos y (con suerte) conducir de manera segura a sus pasajeros a su destino.
 
 
 
@@ -208,7 +208,7 @@ La visión por computadora permite que los autos sin conductor den sentido a su 
 
 #### CV en reconocimiento facial
 
-La visión por computadora también juega un papel importante en las aplicaciones de reconocimiento facial, lo que permite a las computadoras hacer coincidir las imágenes de los rostros de las personas con sus identidades. Los algoritmos de visión artificial detectan rasgos faciales en imágenes y los comparan con bases de datos de perfiles faciales. Los dispositivos de consumo utilizan el reconocimiento facial para autenticar las identidades de sus propietarios. Las aplicaciones de redes sociales utilizan el reconocimiento facial para detectar y etiquetar a los usuarios. Los organismos encargados de hacer cumplir la ley también confían en la tecnología de reconocimiento facial para identificar a los delincuentes en las transmisiones de video.
+La visión por computadora también juega un papel importante en las aplicaciones de reconocimiento facial, lo que permite a las computadoras hacer coincidir las imágenes de los rostros de las personas con sus identidades. Los algoritmos de visión artificial detectan rasgos faciales en imágenes y los comparan con bases de datos de perfiles faciales. Los dispositivos de consumo utilizan el reconocimiento facial para autenticar las identidades de sus propietarios. Las aplicaciones de redes sociales utilizan el reconocimiento facial para detectar y etiquetar a los usuarios. Los organismos encargados de hacer cumplir la ley y seguridad también confían en la tecnología de reconocimiento facial para identificar a los delincuentes en las transmisiones de video.
 
 
 
@@ -243,3 +243,87 @@ La visión por computadora también ha sido una parte importante de los avances 
 
 
 ### Tareas de visión artificial
+Muchas aplicaciones populares de visión por computadora implican tratar de reconocer cosas en fotografías; por ejemplo:
+* Clasificación de objetos: ¿Qué categoría general de objetos se encuentra en esta fotografía?
+* Identificación de objetos: ¿Qué tipo de objeto dado se encuentra en esta fotografía?
+* Verificación de objetos: ¿Está cierto objeto en la fotografía?
+ * Detección de objetos: ¿Dónde están los objetos en la fotografía?
+ * Detección de referencias de objetos: ¿Cuáles son los puntos clave para el objeto en la fotografía?
+* Segmentación de objetos: ¿Qué píxeles pertenecen al objeto en la imagen?
+* Reconocimiento de objetos: ¿Qué objetos hay en esta fotografía y dónde están?
+
+
+
+
+
+![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_59f09a725d004678af029b0305917594.png)
+
+
+
+
+
+Además del reconocimiento, otros métodos de análisis incluyen:
+
+* El análisis de movimiento de video utiliza la visión por computadora para estimar la velocidad de los objetos en un video o la propia cámara.
+* En la segmentación de imágenes, los algoritmos dividen las imágenes en varios conjuntos de vistas.
+* La reconstrucción de escena crea un modelo 3D de una escena ingresada a través de imágenes o video.
+* La restauración de imágenes elimina el ruido, como el desenfoque de las fotos, utilizando filtros basados ​​en aprendizaje automático.
+
+Cualquier otra aplicación que involucre la comprensión de los píxeles a través del software puede etiquetarse con seguridad como visión por computadora.
+
+Declarar todas estas tareas abordadas por la Computer Vision no es para abrumarlo, sino para presentarle las inmensas capacidades que tiene Computer Vision.
+
+## Conceptos básicos de OpenCV y procesamiento de imágenes
+
+
+### ¿Qué es OpenCV?
+
+
+![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b9bd251cd13a40878ab9b37c96850a38.png)
+
+
+
+
+OpenCV (Open Source Computer Vision) es una biblioteca con funciones destinadas principalmente a la visión artificial en tiempo real. OpenCV admite marcos (frameworks) de aprendizaje profundo (Deep Learning) como Caffe, Tensorflow y Torch/PyTorch.
+
+### Rol de OpenCV en un proyecto de visión artificial
+* OpenCV no se usa para entrenar las redes neuronales; debe hacerlo con un marco como TensorFlow o PyTorch y luego exportar el modelo para ejecutarlo en OpenCV.
+* OpenCV se usa para tomar un modelo de red neuronal entrenado, preparar y preprocesar imágenes para él, aplicarlo a las imágenes y generar resultados. También puede combinar redes neuronales con otros algoritmos de visión por computadora disponibles en OpenCV.
+
+### Aplicaciones OpenCV
+* Detección y reconocimiento de rostros.
+* Identificación de objetos
+* Clasificación de acciones humanas en videos
+* Seguimiento de los movimientos de la cámara
+* Seguimiento de objetos en movimiento
+* Extracción de modelos 3D de objetos
+* Producción de nubes de puntos 3D a partir de cámaras estéreo
+* Unión de imágenes para producir una nueva imagen de una escena
+* Encontrar imágenes similares en una base de datos de imágenes
+* Eliminación de ojos rojos de las imágenes.
+* Seguir los movimientos de los ojos
+* Reconocimiento de paisajes agregando marcadores para habilitar la realidad aumentada (AR)
+
+Y muchos más.
+
+### Imágenes en color en OpenCV
+
+* Las imágenes de color OpenCV en el espacio de color RGB (Rojo, Verde, Azul) tienen una tupla de 3 asociada con cada píxel: (B, G, R).
+* Tenga en cuenta que el orden es BGR en lugar de RGB. Esto se debe a que cuando OpenCV se desarrolló por primera vez hace muchos años, el estándar era el pedido BGR. A lo largo de los años, el estándar se ha convertido en RGB, pero OpenCV mantiene este orden BGR "heredado" para garantizar que no se rompa el código existente.
+
+### Instalación de OpenCV
+Antes de que pueda comenzar a aprender OpenCV, debe instalar la biblioteca OpenCV en su sistema.
+* Si está trabajando en un cuaderno Jupyter en su dispositivo, puede
+instalar OpenCV con:
+`pip instalar opencv-python`
+* Los usuarios de Colab no necesitan preocuparse por esto. OpenCV está instalado
+por defecto en Google Colab.
+
+### Operaciones básicas de OpenCV en la práctica
+* El siguiente cuaderno detalla los más utilizados
+comandos en OpenCV: https://github.com/dphi-official/Deep_Learning_Bootcamp/blob/master/OpenCV/DL_Day12_OpenCV.ipynb
+
+### Enlace de descarga de diapositivas
+Puede descargar las diapositivas de este módulo desde [aquí](https://docs.google.com/presentation/d/1h0Vw2h_HISqP4Di9DCSk-A_wwIgGtQf-j4ZBJJnSuJ0/edit?usp=sharing).
+
+### Referencias
