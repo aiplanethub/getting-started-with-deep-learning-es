@@ -116,7 +116,7 @@ A veces ves Ancho x Alto x #Canales, pero el tercero
 dimensión son los "canales".
 
 El tamaño de la imagen en la diapositiva anterior se puede calcular como
-B x A x 3.
+Alto x Ancho x 3.
 
 ¿Puedes ahora entender por qué? (# significa el número de algo)
 
@@ -124,7 +124,7 @@ B x A x 3.
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LLAgPtpZth8?start=14" title="Reproductor de video de YouTube" frameborder="0" allow="acelerómetro; reproducción automática; escritura en el portapapeles; medios cifrados; giroscopio; imagen en imagen" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLAgPtpZth8?start=14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
