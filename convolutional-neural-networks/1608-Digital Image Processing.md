@@ -113,8 +113,9 @@ Para obtener más detalles sobre cada paso, consulte este artículo: https://med
 * Estilo de imagen
 
 
-### Cuaderno sobre procesamiento digital de imágenes
+### Notebook sobre procesamiento digital de imágenes
 
-Puede encontrar el cuaderno sobre procesamiento de imágenes digitales [aquí] (https://dphi.tech/notebooks/847/gunnika/digital-image-processing).
+Puede encontrar el notebook sobre procesamiento de imágenes digitales [aquí] (https://dphi.tech/notebooks/847/gunnika/digital-image-processing).
 
 ### Enlace de descarga de diapositivas
+You can download the slides for this module from [here](https://docs.google.com/presentation/d/1_AnXdbbkdrvgws-ZVorDSz0lj-VP9eTE/edit?usp=sharing&ouid=103295128566172156165&rtpof=true&sd=true).
