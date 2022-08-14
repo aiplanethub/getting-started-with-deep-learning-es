@@ -43,3 +43,78 @@ La digitalización implica que una imagen digital se aproxima a una escena real 
 
 
 ### Imagen digital
+
+Los formatos de imagen digital estándar incluyen
+* 1 muestra por punto (B&N/Escala de grises)
+* 3 muestras por punto (Rojo, Verde y Azul)
+* 4 muestras por punto (Rojo, Verde, Azul y Alfa/opacidad)
+
+## ¿Qué es el procesamiento digital de imágenes?
+
+### Procesando una imagen digital
+
+Procesamos imágenes digitales usando una computadora.
+
+Una operación de procesamiento de imágenes típicamente define una nueva imagen g en términos de una imagen existente f.
+
+Podemos transformar el rango de f.
+
+![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_6c7c611794334508b32604240b1de84a.png)
+
+O el dominio de f:
+
+![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_e37580ca0ff3437189f49d3f6a30aa0e.png)
+
+### ¿Por qué procesamiento digital de imágenes?
+
+* Mejora de la información pictórica para la interpretación humana
+* Procesamiento de datos de imágenes para almacenamiento, transmisión y representación para la percepción autónoma de máquinas
+
+Donde termina el procesamiento de imágenes, comienzan campos como el análisis de imágenes y la visión artificial. El continuo desde el procesamiento de imágenes hasta la visión artificial se divide en:
+
+* Nivel bajo:
+Las entradas y salidas son imágenes. Ej.: eliminación de ruido, nitidez de imagen
+* Nivel medio:
+Las salidas son los atributos extraídos de las imágenes de entrada. Ej: reconocimiento de objetos, segmentación/clasificación de imágenes
+* Nivel alto:
+Un conjunto de reconocimiento de objetos individuales. Ej: comprensión de la escena, navegación autónoma
+
+Para obtener más detalles sobre cada paso, consulte este artículo: https://medium.com/futframe-ai/fundamental-steps-of-digital-image-processing-d7518d6bb23c.
+
+### Etapas clave en el procesamiento digital de imágenes
+
+
+
+
+
+
+
+
+![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_1789b4ee9aab4cd2a7daf7f63c41d823.png)
+
+
+
+
+
+
+
+### Aplicaciones
+* Manejo de Documentos
+* Verificación de firma
+* Verificación biométrica
+* Investigación de reconocimiento de objetos
+* Reconocimiento de objetivos
+* Interpretación de fotografía aérea
+* Vehículo Autónomo
+* Monitoreo de tráfico
+* Reconocimiento facial y seguimiento
+* Aplicaciones médicas -> Detección de tumores
+* Generaciones de imagen
+* Estilo de imagen
+
+
+### Cuaderno sobre procesamiento digital de imágenes
+
+Puede encontrar el cuaderno sobre procesamiento de imágenes digitales [aquí] (https://dphi.tech/notebooks/847/gunnika/digital-image-processing).
+
+### Enlace de descarga de diapositivas
