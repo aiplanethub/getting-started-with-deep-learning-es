@@ -315,15 +315,17 @@ Y muchos más.
 Antes de que pueda comenzar a aprender OpenCV, debe instalar la biblioteca OpenCV en su sistema.
 * Si está trabajando en un cuaderno Jupyter en su dispositivo, puede
 instalar OpenCV con:
-`pip instalar opencv-python`
-* Los usuarios de Colab no necesitan preocuparse por esto. OpenCV está instalado
-por defecto en Google Colab.
+`pip install opencv-python`
+* Los usuarios de Colab no necesitan preocuparse por esto. OpenCV está instalado por defecto en Google Colab.
 
 ### Operaciones básicas de OpenCV en la práctica
-* El siguiente cuaderno detalla los más utilizados
-comandos en OpenCV: https://github.com/dphi-official/Deep_Learning_Bootcamp/blob/master/OpenCV/DL_Day12_OpenCV.ipynb
+* El siguiente cuaderno detalla los comandos más utilizados en OpenCV: https://github.com/dphi-official/Deep_Learning_Bootcamp/blob/master/OpenCV/DL_Day12_OpenCV.ipynb
 
 ### Enlace de descarga de diapositivas
 Puede descargar las diapositivas de este módulo desde [aquí](https://docs.google.com/presentation/d/1h0Vw2h_HISqP4Di9DCSk-A_wwIgGtQf-j4ZBJJnSuJ0/edit?usp=sharing).
 
 ### Referencias
+* https://towardsdatascience.com/how-does-computer-understand-images-c1566d4537bf
+* https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e
+* https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
+* https://www.edureka.co/blog/python-opencv-tutorial/
