@@ -142,4 +142,6 @@ A una máquina (una computadora) se le puede enseñar cómo entender una imagen 
 
 Al igual que los humanos tienen diferentes habilidades, y una de las habilidades es identificar un objeto en una imagen (un perro en la imagen de arriba), las computadoras tienen modelos de aprendizaje automático, que pueden considerarse como una habilidad, para realizar la misma tarea. Como los humanos necesitan ser entrenados para realizar una habilidad particular, las computadoras también necesitan entrenar el modelo de aprendizaje automático.
 
-En ambos casos, el entrenamiento ocurre usando ejemplos. De manera similar a cómo se le enseña a un niño a identificar una manzana, a un modelo de aprendizaje automático se le puede enseñar cómo identificar una manzana en una imagen al proporcionar varias imágenes que contienen una aplicación.
+En ambos casos, el entrenamiento ocurre usando ejemplos. De manera similar a cómo se le enseña a un niño a identificar una manzana, a un modelo de aprendizaje automático se le puede enseñar cómo identificar una manzana en una imagen al proporcionar varias imágenes que contienen una manzana.
+
+A partir de estas imágenes de ejemplo, el modelo aprende las características de una manzana, como su forma y color. Ahora, cuando se presenta una nueva imagen de una manzana a esta computadora con este modelo, puede usar lo que había aprendido antes sobre las manzanas e identificar que esta nueva imagen también contiene una manzana.
