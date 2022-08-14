@@ -145,3 +145,27 @@ Al igual que los humanos tienen diferentes habilidades, y una de las habilidades
 En ambos casos, el entrenamiento ocurre usando ejemplos. De manera similar a cómo se le enseña a un niño a identificar una manzana, a un modelo de aprendizaje automático se le puede enseñar cómo identificar una manzana en una imagen al proporcionar varias imágenes que contienen una manzana.
 
 A partir de estas imágenes de ejemplo, el modelo aprende las características de una manzana, como su forma y color. Ahora, cuando se presenta una nueva imagen de una manzana a esta computadora con este modelo, puede usar lo que había aprendido antes sobre las manzanas e identificar que esta nueva imagen también contiene una manzana.
+
+### Cómo enseñamos a las computadoras a entender imágenes
+[En esta increíble charla TED] (https://www.youtube.com/watch?v=40riCqvRoMs), Fei Fei Li, codirectora del Instituto Stanford para la inteligencia artificial centrada en el ser humano, habla sobre el [conjunto de datos de ImageNet ](https://image-net.org/): un gran conjunto de datos de más de 14 millones de imágenes, diseñado por académicos destinados a la investigación de visión por computadora que ella creó con otros investigadores.
+
+El video se remonta a hace 5 años, pero sigue siendo relevante hoy en día. ImageNet ha jugado un papel importante en el avance de la visión artificial. Es útil para muchas aplicaciones de visión artificial y es uno de los conjuntos de datos más populares para visión artificial hasta la fecha.
+
+También habla sobre las redes neuronales convolucionales y su papel crucial en este dominio. Pronto aprenderemos más sobre CNN a través de una sesión grabada.
+
+## Visión por computador
+
+La visión por computadora, a menudo abreviada como CV, es un campo de inteligencia artificial que entrena a las computadoras para interpretar y comprender el mundo visual.
+
+Desglosándolo en sus palabras constituyentes, Computer Vision = dar visión a las computadoras.
+
+Usando imágenes digitales de cámaras y videos y modelos de aprendizaje profundo, las máquinas pueden identificar y clasificar objetos con precisión, y luego reaccionar a lo que "ven".
+
+Computer Vision es solo una de las muchas aplicaciones de Deep Learning.
+
+El objetivo de la visión artificial es comprender el contenido de las imágenes digitales. Por lo general, esto implica el desarrollo de métodos que intentan reproducir la capacidad de la visión humana.
+
+### Cómo ML y DL revolucionaron la visión artificial
+El aprendizaje automático ayudó a resolver muchos problemas desafiantes para las herramientas y enfoques clásicos de desarrollo de software. Por ejemplo, hace años, los ingenieros de aprendizaje automático pudieron crear un software que podía predecir las ventanas de supervivencia del cáncer de mama mejor que los expertos humanos. Sin embargo, desarrollar las características del software requirió el esfuerzo de docenas de ingenieros y expertos en cáncer de mama y llevó mucho tiempo desarrollarlo.
+
+El aprendizaje profundo proporcionó un enfoque fundamentalmente diferente para realizar el aprendizaje automático. El aprendizaje profundo se basa en redes neuronales, una función de propósito general que puede resolver cualquier problema representable a través de ejemplos. Cuando proporciona a una red neuronal muchos ejemplos etiquetados de un tipo específico de datos, podrá extraer patrones comunes entre esos ejemplos y transformarlos en una ecuación matemática que ayudará a clasificar futuras piezas de información.
