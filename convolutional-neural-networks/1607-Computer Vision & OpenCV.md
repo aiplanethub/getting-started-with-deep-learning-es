@@ -138,7 +138,7 @@ La siguiente pregunta es, ¿cómo podemos decir que la imagen contiene la imagen
 
 Solo leer la imagen es inútil si no puede entender lo que significa o si no puede describir de qué se trata la imagen y qué contiene. Aquí es donde entra el aprendizaje automático.
 
-A una máquina (oa una computadora) se le puede enseñar cómo entender una imagen y decir qué contiene la imagen. Este es un ejemplo de aprendizaje automático que le enseña a una computadora a comprender y describir una imagen. Es similar a cómo enseñamos a los niños a identificar diferentes alfabetos o diferenciar entre una manzana y un plátano mostrando ejemplos de cada caso. Así es exactamente como una computadora aprende a identificar objetos en una imagen.
+A una máquina (una computadora) se le puede enseñar cómo entender una imagen y decir qué contiene la imagen. Este es un ejemplo de aprendizaje automático que le enseña a una computadora a comprender y describir una imagen. Es similar a cómo enseñamos a los niños a identificar diferentes alfabetos o diferenciar entre una manzana y un plátano mostrando ejemplos de cada caso. Así es exactamente como una computadora aprende a identificar objetos en una imagen.
 
 Al igual que los humanos tienen diferentes habilidades, y una de las habilidades es identificar un objeto en una imagen (un perro en la imagen de arriba), las computadoras tienen modelos de aprendizaje automático, que pueden considerarse como una habilidad, para realizar la misma tarea. Como los humanos necesitan ser entrenados para realizar una habilidad particular, las computadoras también necesitan entrenar el modelo de aprendizaje automático.
 
