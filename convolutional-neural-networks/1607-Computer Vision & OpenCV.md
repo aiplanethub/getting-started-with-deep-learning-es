@@ -66,7 +66,7 @@ Al usar la escala de grises, la computadora asigna a cada píxel un valor (en n�
 2. **Valores RGB**: una combinación de rojo (Red), verde (Green) y azul (Blue), de ahí el R-G-B.
 Una vez que se le asigna un valor RGB al color, la computadora extrae ese valor de cada píxel y coloca los resultados en una matriz.
 
-Cada píxel contiene un número diferente de canales. Si es una imagen en escala de grises, tiene un solo canal, mientras que si es una imagen en color, contiene tres canales: rojo, verde y azul.
+Cada píxel contiene un número diferente de canales, y los canales están asociados a representaciones numéricas. Si es una imagen en escala de grises, tiene un solo canal (un número que lo representa), mientras que si es una imagen en color, el pixel contiene tres canales: rojo, verde y azul (tres números que lo representan).
 
 
 
