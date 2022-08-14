@@ -8,7 +8,7 @@ $f(x, y) = i(x,y) * r(x,y)$
 
 $f(x, y)$: Intensidad en un punto dado (x, y)
 $i(x, y)$: Iluminación en (x, y)
-$r(x, y)$: Reflectancia/ Transmisividad en (x, y)
+$r(x, y)$: Reflectancia/Transmisividad en (x, y)
 
 $M \times N$ representación de f
 
@@ -31,9 +31,9 @@ $M \times N$ representación de f
 
 ### Píxel y digitalización
 
-Los píxeles son los elementos de una imagen digital que normalmente representan niveles de gris, colores, alturas y opacidades.
+Los píxeles son los elementos de una imagen digital que normalmente representan niveles de grises, colores, alturas y opacidades.
 
-La digitalización implica que una imagen digital se aproxima a una escena real en forma de matriz numérica.
+La digitalización implica que una imagen digital se aproxima a una escena real en forma de una matriz numérica.
 
 
 
