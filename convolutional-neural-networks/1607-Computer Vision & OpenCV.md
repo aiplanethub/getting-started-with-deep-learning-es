@@ -169,3 +169,77 @@ El objetivo de la visión artificial es comprender el contenido de las imágenes
 El aprendizaje automático ayudó a resolver muchos problemas desafiantes para las herramientas y enfoques clásicos de desarrollo de software. Por ejemplo, hace años, los ingenieros de aprendizaje automático pudieron crear un software que podía predecir las ventanas de supervivencia del cáncer de mama mejor que los expertos humanos. Sin embargo, desarrollar las características del software requirió el esfuerzo de docenas de ingenieros y expertos en cáncer de mama y llevó mucho tiempo desarrollarlo.
 
 El aprendizaje profundo proporcionó un enfoque fundamentalmente diferente para realizar el aprendizaje automático. El aprendizaje profundo se basa en redes neuronales, una función de propósito general que puede resolver cualquier problema representable a través de ejemplos. Cuando proporciona a una red neuronal muchos ejemplos etiquetados de un tipo específico de datos, podrá extraer patrones comunes entre esos ejemplos y transformarlos en una ecuación matemática que ayudará a clasificar futuras piezas de información.
+
+
+
+
+
+
+![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_b9686f5367ce4b8b8e6585b767f2b8d9.png)
+
+
+
+
+
+
+
+_Image source: zbigatron_
+### DL - La estrella de Computer Vision
+El aprendizaje profundo es un método muy efectivo para hacer visión artificial. En la mayoría de los casos, la creación de un excelente algoritmo de aprendizaje profundo se reduce a recopilar una gran cantidad de datos de entrenamiento etiquetados y ajustar parámetros como el tipo y la cantidad de capas de redes neuronales y épocas de entrenamiento. En comparación con los tipos anteriores de aprendizaje automático, el aprendizaje profundo es más fácil y rápido de desarrollar e implementar.
+
+La mayoría de las aplicaciones actuales de visión por computadora, como la detección de cáncer, los automóviles autónomos y el reconocimiento facial, utilizan el aprendizaje profundo. Gracias a la disponibilidad y los avances en hardware y recursos de computación en la nube, el aprendizaje profundo y las redes neuronales profundas han pasado del ámbito conceptual a las aplicaciones prácticas.
+
+### Aplicaciones de la visión artificial
+
+#### CV en vehículos autónomos
+
+La visión por computadora permite que los autos sin conductor den sentido a su entorno. Las cámaras capturan video desde diferentes ángulos alrededor del automóvil y lo transmiten al software de visión por computadora, que luego procesa las imágenes en tiempo real para encontrar los extremos de las carreteras, leer las señales de tráfico y detectar otros automóviles, objetos y peatones. El automóvil autónomo puede luego conducir su camino en calles y autopistas, evitar chocar con obstáculos y (con suerte) conducir de manera segura a sus pasajeros a su destino.
+
+
+
+
+![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_1b5683c870c644739a86e6456a05efb5.png)
+
+
+
+
+
+
+
+#### CV en reconocimiento facial
+
+La visión por computadora también juega un papel importante en las aplicaciones de reconocimiento facial, lo que permite a las computadoras hacer coincidir las imágenes de los rostros de las personas con sus identidades. Los algoritmos de visión artificial detectan rasgos faciales en imágenes y los comparan con bases de datos de perfiles faciales. Los dispositivos de consumo utilizan el reconocimiento facial para autenticar las identidades de sus propietarios. Las aplicaciones de redes sociales utilizan el reconocimiento facial para detectar y etiquetar a los usuarios. Los organismos encargados de hacer cumplir la ley también confían en la tecnología de reconocimiento facial para identificar a los delincuentes en las transmisiones de video.
+
+
+
+
+
+![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_e154582e549d45c59bbf0485fa3fb2b0.png)
+
+
+
+
+
+#### CV en Salud
+
+La visión por computadora también ha sido una parte importante de los avances en tecnología de la salud. Los algoritmos de visión artificial pueden ayudar a automatizar tareas como la detección de lunares cancerosos en imágenes de la piel o la detección de síntomas en radiografías y resonancias magnéticas.
+
+
+
+
+
+
+
+
+![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_5fed22bbb72240789b7f676307bec988.png)
+
+
+
+
+
+
+
+
+
+
+### Tareas de visión artificial
