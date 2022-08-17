@@ -116,7 +116,7 @@ La traducción de la imagen anterior se presenta a continuación.
 ---
 A la izquierda: Una red neuronal regular de 3 capas.
 
-A la derecha: Una ConvNet organiza sus neuronas en 3 dimensiones (por ancho, alto y profundo), como se visualiza en uno de las capas. Cada capa de una ConvNet transforma el volumen de entrada 3D en un volumen de salida 3D de neuronas de activación. En este ejemplo, 
+A la derecha: Una ConvNet organiza sus neuronas en 3 dimensiones (por ancho, alto y profundo), como se visualiza en uno de las capas. Cada capa de una ConvNet transforma el volumen de entrada 3D en un volumen de salida 3D de neuronas de activación. En este ejemplo, la capa de entrada roja contiene la imagen, entonces, su ancho y alto serían las dimensiones de la imagen y la profundidad sería 3 (Canales Rojo, Verde y Azul).
 
 ---
 
