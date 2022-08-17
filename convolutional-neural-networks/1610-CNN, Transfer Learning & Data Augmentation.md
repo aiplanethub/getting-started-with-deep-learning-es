@@ -1,11 +1,11 @@
 ## Objetivos de aprendizaje
 
-* Invariancia espacial/de traducción
+* Invariancia espacial/traslación
 * Desventajas de MLP
 * Red neuronal convolucional
 * Comparación de la arquitectura CNN y ANN/MLP
 * Aprendizaje profundo en datos limitados: aprendizaje de transferencia, aumento de datos
-* Normalización de lotes
+* Normalización de lotes de datos
 
 
 Hasta ahora, ha trabajado con perceptrones multicapa (MLP).
