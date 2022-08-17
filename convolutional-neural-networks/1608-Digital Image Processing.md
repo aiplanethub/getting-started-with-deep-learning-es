@@ -26,6 +26,11 @@ $M \times N$ representación de f
 
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Un ejemplo del proceso de adquisición digital de una imagen. (a) Fuente de energía (iluminación). (b) Un elemento de una escena. (c) Sistema de imagen. (d) Proyección de la escena en el plano. (e) Imagen digitalizada.
+
+---
 
 
 
@@ -95,6 +100,15 @@ Para obtener más detalles sobre cada paso, consulte este artículo: https://med
 
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Dominio del problema.
+
+Adquisición de imagenes.
+
+
+
+---
 
 
 
