@@ -307,7 +307,7 @@ Puedes ver este video si está interesado en aprender cómo se realiza Transfer 
 
 
 ## Aumento de datos
-Necesitamos modificaciones menores a nuestro conjunto de datos existente para obtener más datos, cambios menores como volteos, traslaciones o rotaciones. Nuestra red neuronal pensaría que estas son imágenes distintas de todos modos.
+Necesitamos modificaciones menores a nuestro conjunto de datos existente para acumular más datos, cambios menores como volteos, traslaciones o rotaciones. Pues nuestra red neuronal pensará que estas son imágenes distintas de todos modos.
 
 Se dice que una red neuronal convolucional que puede clasificar objetos de manera robusta, incluso si se colocan en diferentes orientaciones, tiene la propiedad llamada invariancia. Más específicamente, una CNN puede ser invariable a la traducción, el punto de vista, el tamaño o la iluminación (o una combinación de los anteriores).
 
