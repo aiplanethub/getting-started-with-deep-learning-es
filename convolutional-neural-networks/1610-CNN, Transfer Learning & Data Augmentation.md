@@ -307,7 +307,19 @@ Aprendizaje Profundo | Transferencia de Aprendizaje
 
 (horas/dias) | (minutos)
 
+Entrenamiento del clasificador
 
+Aprendiendo características
+
+Entrenar en grandes conjuntos de datos públicos
+
+=>
+
+Entrenamiento del clasificador
+
+Transferencia de características (sin nuevo entrenamiento)
+
+Entrenar en tu pequeño conjunto de datos local.
 
 ---
 
@@ -383,6 +395,23 @@ Su modelo para detectar una mariposa debería poder encontrar una mariposa en la
 ![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_14468a4be2904801a4d8df731197631a.png)
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Aumento de datos
+
+Imagen Original
+
+Remoción de textura
+
+Remoción de colores
+
+Realce de bordes
+
+Mapeo de bordes salientes
+
+Girar/Rotar
+
+---
 
 
 ### Técnicas de aumento populares en imágenes
