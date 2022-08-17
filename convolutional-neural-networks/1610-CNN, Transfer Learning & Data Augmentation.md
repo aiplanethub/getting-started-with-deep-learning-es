@@ -340,8 +340,7 @@ Su modelo para detectar una mariposa debería poder encontrar una mariposa en la
 7. Agregar ruido
 8. Ajuste de brillo
 
-Aparte de lo anterior, muchas más técnicas de aumento
-existir.
+Aparte de las anteriores, muchas más técnicas de aumento pueden existir.
 
 ### ¿Dónde realizar el aumento de datos?
 
