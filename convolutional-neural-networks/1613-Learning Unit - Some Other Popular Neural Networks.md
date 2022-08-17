@@ -14,7 +14,7 @@
 
 Las redes neuronales tienen una especie de universalidad. No importa qué función queramos calcular, sabemos que hay una red neuronal que puede hacer el trabajo. Por eso se les conoce como Aproximadores de Valor Universal.
 
-Si está interesado en obtener más información al respecto, este artículo brinda una explicación simple y principalmente visual del teorema de universalidad:
+Si estas interesado en obtener más información al respecto, este artículo brinda una explicación simple y principalmente visual del teorema de universalidad:
 
 http://neuralnetworksanddeeplearning.com/chap4.html
 
@@ -113,7 +113,7 @@ A continuación se muestra una comparación de una red neuronal de alimentación
 
 
 
-**BocetoRNN**
+**SketchRNN**
 
 https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
 
@@ -130,14 +130,14 @@ No necesita hacer mucho aquí; simplemente coloque un punto o agregue una línea
 
 ### Problemas con RNN estándar
 
-* Problemas de desaparición de gradiente
-* Explosión de problemas de gradiente
-* Entrenar a un RNN es una tarea comparativamente difícil.
+* Problemas de desaparición numérica del gradiente
+* Problemas de explosión numérica del gradiente
+* Entrenar a un RNN es una tarea comparativamente difícil a otras.
 * No puede procesar secuencias muy largas utilizando tanh o relu como función de activación.
 
 ## Memoria a corto plazo (LSTM)
 * Las redes de memoria a corto plazo (LSTM) son una versión modificada de las redes neuronales recurrentes (RNN) que facilitan el recuerdo de datos pasados ​​en la memoria.
-* El problema del gradiente de fuga de RNN se resuelve aquí.
+* El problema de la desaparición numérica del gradiente de RNN se resuelve aquí.
 * Advertencia: la siguiente imagen puede parecer demasiado compleja en este momento. No hay nada que temer; Aprenderás esto en el próximo bootcamp.
 
 
@@ -154,7 +154,7 @@ No necesita hacer mucho aquí; simplemente coloque un punto o agregue una línea
 
 
 ## Unidad recurrente cerrada (GRU)
-* GRU (Unidad recurrente cerrada) tiene como objetivo resolver el problema del gradiente de fuga, que viene con una red neuronal recurrente estándar.
+* GRU (Unidad recurrente cerrada) tiene como objetivo resolver el problema de la desaparición numérica del gradiente, que viene con una red neuronal recurrente estándar.
 * GRU también se puede considerar como una variación del LSTM porque ambos están diseñados de manera similar y, en algunos casos, producen resultados igualmente excelentes.
 * ¡Otra alerta de imagen de aspecto complejo! Un recordatorio amable: se vuelve más fácil cuando lo entiendes completamente.
 
