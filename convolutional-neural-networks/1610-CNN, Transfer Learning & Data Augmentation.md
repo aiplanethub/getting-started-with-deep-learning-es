@@ -344,7 +344,7 @@ Aparte de las anteriores, muchas más técnicas de aumento de datos pueden exist
 
 ### ¿Dónde realizar el aumento de datos?
 
-El aumento de datos generalmente se realiza en el conjunto de trenes y, a menudo, en el conjunto de validación. Esto se debe a que queremos aumentar el tamaño y la variedad de datos de los que aprende nuestro modelo.
+El aumento de datos generalmente se realiza en el conjunto de entrenamiento y, a menudo, en el conjunto de validación. Esto se debe a que queremos aumentar el tamaño y la variedad de datos de los que aprende nuestro modelo.
 
 Sin embargo, el aumento de datos también se puede realizar en el conjunto de prueba. No es para hacer que los datos de prueba sean más grandes o más precisos, sino para hacer que los datos de entrada del conjunto de prueba se parezcan a los datos de entrada del conjunto de entrenamiento para que podamos introducirlos en la misma red (por ejemplo, las mismas dimensiones).
 
