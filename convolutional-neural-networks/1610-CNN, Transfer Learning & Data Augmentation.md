@@ -82,7 +82,9 @@ Las CNN aprovechan el hecho de que los píxeles cercanos están más fuertemente
 
 La traducción de la imagen anterior se presenta a continuación.
 ---
-Pixeles cercanos están más fuertemente relacionados que los distantes.
+Los pixeles cercanos están más fuertemente relacionados que los distantes.
+
+Los objetos están construidos de partes más pequeñas.
 
 ---
 
@@ -109,6 +111,14 @@ En las CNN:
 
 ![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_4b16928c40f54af8b69b35d289e5d874.png)
 
+
+La traducción de la imagen anterior se presenta a continuación.
+---
+A la izquierda: Una red neuronal regular de 3 capas.
+
+A la derecha: Una ConvNet organiza sus neuronas en 3 dimensiones (por ancho, alto y profundo), como se visualiza en uno de las capas. Cada capa de una ConvNet transforma el volumen de entrada 3D en un volumen de salida 3D de neuronas de activación. En este ejemplo, 
+
+---
 
 
 
