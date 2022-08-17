@@ -290,8 +290,7 @@ Otra gran ventaja de usar el aprendizaje por transferencia es qué tan bien se g
 Los modelos más grandes tienden a sobreajustar los datos y no funcionan bien cuando se prueban con datos ocultos. Dado que el aprendizaje por transferencia permite que el modelo vea diferentes tipos de datos, aprende mejor las reglas subyacentes del mundo.
 
 
-Puede ver este video si está interesado en aprender cómo se realiza Transfer Learning. Es un tema un poco avanzado, así que no te preocupes si no lo entiendes a la primera. También,
-el instructor está usando Keras, pero el mismo código también funcionará con tf.Keras.
+Puedes ver este video si está interesado en aprender cómo se realiza Transfer Learning. Es un tema un poco avanzado, así que no te preocupes si no lo entiendes a la primera. También, el instructor está usando Keras, pero el mismo código también funcionará con tf.Keras.
 
 
 
