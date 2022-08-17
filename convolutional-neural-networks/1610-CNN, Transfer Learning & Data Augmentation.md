@@ -353,8 +353,7 @@ también, por lo que son de un tamaño similar a las imágenes de entrenamiento.
 
 ### ¿Cómo realizar el aumento de datos?
 
-Una función de Tensorflow Keras llamada ImageDataGenerator ayuda en
-realizar técnicas de aumento de datos.
+Una función de Tensorflow Keras llamada ImageDataGenerator ayuda en aplicar técnicas de aumento de datos.
 
 Un ImageDataGenerator que realiza el aumento podría tener este aspecto:
 
