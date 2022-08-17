@@ -420,17 +420,17 @@ Nota: además de ImageDataGenerator, existen muchas otras opciones para realizar
 Aplicar la normalización por lotes es tan simple como agregar una capa llamada BatchNormalization() después de la capa de convolución. Se puede agregar a cualquier red neuronal.
 
 ```
-# Crear el modelo modelo = Secuencial()
-modelo.add(Conv2D(32, tamaño del kernel=(3, 3), activación='relu', forma de entrada=forma_entrada)
-modelo.add(Normalización por lotes())
-modelo.add(MaxPooling2D(pool_size=(2, 2)))
-modelo.add(Normalización por lotes())
-modelo.add(Conv2D(64, kernel_size=(3, 3), activación='relu'))
-modelo.add(Normalización por lotes())
-modelo.add(MaxPooling2D(pool_size=(2, 2)))
-modelo.add(BatchNormalization()) modelo.add(Flatten()) modelo.add(Dense(256, activación='relu'))
-modelo.add(Normalización por lotes())
-modelo.add(Dense(sin_clases, activación='softmax'))
+# Crear el modelo model = Sequential()
+model.add(Conv2D(32, kernel size=(3, 3), activation='relu', input shape=input_shape) 
+model.add(BatchNormalization()) 
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(BatchNormalization())
+model.add(Conv2D(64, kernel_size=(3, 3), activation='relu'))
+model.add(BatchNormalization())
+model.add(MaxPooling2D(pool_size=(2, 2)))
+model.add(BatchNormalization()) model.add(Flatten()) model.add(Dense(256, activation='relu'))
+model.add(BatchNormalization())
+model.add(Dense(no_classes, activation='softmax'))
 ```
 
 
