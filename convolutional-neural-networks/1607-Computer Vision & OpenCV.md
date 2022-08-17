@@ -309,6 +309,15 @@ Muchas aplicaciones populares de visión por computadora implican tratar de reco
 
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Clasificación | Clasificación + Localización | Detección de Objetos | Segmentación
+
+Gato | Gato | Gato, Perro, Pato | Gato, Perro, Pato
+
+Objeto individual | Multiples Objetos
+
+---
 
 
 Además del reconocimiento, otros métodos de análisis incluyen:
@@ -378,4 +387,3 @@ Puede descargar las diapositivas de este módulo desde [aquí](https://docs.goog
 * https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e
 * https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 * https://www.edureka.co/blog/python-opencv-tutorial/
-*
