@@ -30,6 +30,13 @@ Un gato sigue siendo un gato independientemente de si aparece en la mitad superi
 
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Estable en la traslación del objeto.
+
+Gato !
+
+---
 
 
 
@@ -45,6 +52,15 @@ Un gato sigue siendo un gato independientemente de si aparece en la mitad superi
 ![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_0415b77cff744bc7b422e6c4e385f2ff.png)
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+En este caso, los pesos rojos serán modificados para reconocer mejor los gatos.
+
+En este caso, los pesos verdes serán modificados.
+
+Un detector de gatos usando un MLP, el cual cambia en función de la posición del gato.
+
+---
 
 
 
@@ -62,6 +78,13 @@ Las CNN aprovechan el hecho de que los píxeles cercanos están más fuertemente
 
 ![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_4880b5757ed24112bc9d6c6ecec951f8.png)
 
+
+
+La traducción de la imagen anterior se presenta a continuación.
+---
+Pixeles cercanos están más fuertemente relacionados que los distantes.
+
+---
 
 
 Para enseñar un algoritmo a reconocer objetos en imágenes, utilizamos un tipo específico de Red Neuronal Artificial: una Red Neuronal Convolucional (CNN). Su nombre proviene de una de las operaciones más importantes de la red: la convolución.
