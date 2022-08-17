@@ -309,7 +309,7 @@ Puedes ver este video si está interesado en aprender cómo se realiza Transfer 
 ## Aumento de datos
 Necesitamos modificaciones menores a nuestro conjunto de datos existente para acumular más datos, cambios menores como volteos, traslaciones o rotaciones. Y nuestra red neuronal pensará que estas son imágenes distintas de todos modos.
 
-Se dice que una red neuronal convolucional que puede clasificar objetos de manera robusta, incluso si se colocan en diferentes orientaciones, tiene la propiedad llamada invariancia. Más específicamente, una CNN puede ser invariable a la traducción, el punto de vista, el tamaño o la iluminación (o una combinación de los anteriores).
+Se dice que una red neuronal convolucional que puede clasificar objetos de manera robusta, incluso si se colocan en diferentes orientaciones, tiene la propiedad llamada invariancia. Más específicamente, una CNN puede ser invariable a la traslación, el punto de vista, el tamaño o la iluminación (o una combinación de los anteriores).
 
 Esta es esencialmente la premisa del aumento de datos. En un escenario del mundo real, podemos tener un conjunto de datos de imágenes tomadas en un conjunto limitado de condiciones. Sin embargo, nuestra aplicación de destino puede existir en varias condiciones, como orientación, ubicación, escala, brillo, etc. Damos cuenta de estas situaciones entrenando nuestra red neuronal con datos adicionales modificados sintéticamente.
 
