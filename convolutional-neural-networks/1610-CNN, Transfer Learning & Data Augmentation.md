@@ -237,8 +237,7 @@ Entonces, ¿qué haces cuando no puedes encontrar los datos requeridos mientras 
 
 ## ¡Transfiere el aprendizaje al rescate!
 
-"Si Deep Learning es el santo grial y los datos son el guardián,
-transferir el aprendizaje es la clave".
+"Si Deep Learning es el santo grial y los datos son el guardián, transferir el aprendizaje es la clave".
 
 ### Transferencia de aprendizaje
 El aprendizaje por transferencia utiliza el conocimiento adquirido al resolver un problema y aplicarlo a un problema diferente pero relacionado.
