@@ -278,6 +278,17 @@ La visión por computadora también ha sido una parte importante de los avances 
 
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Benigno
+
+Asimetría, Borde, Color, Diametro, Evolución
+
+Maligno
+
+Asimetría, Borde, Color, Diametro, Evolución
+
+---
 
 
 ### Tareas de visión artificial
@@ -367,3 +378,4 @@ Puede descargar las diapositivas de este módulo desde [aquí](https://docs.goog
 * https://towardsdatascience.com/everything-you-ever-wanted-to-know-about-computer-vision-heres-a-look-why-it-s-so-awesome-e8a58dfb641e
 * https://www.pyimagesearch.com/2018/07/19/opencv-tutorial-a-guide-to-learn-opencv/
 * https://www.edureka.co/blog/python-opencv-tutorial/
+*
