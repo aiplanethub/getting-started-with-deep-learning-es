@@ -364,9 +364,9 @@ train_datagen = ImageDataGenerator(
     altura_cambio_rango=0.2,
     cortante_rango=0.2,
     zoom_rango=0.2,
-    horizontal_flip=Verdadero
-    vertical_flip=Verdadero,
-    fill_mode='más cercano')
+    horizontal_flip=True
+    vertical_flip=True,
+    fill_mode='nearest')
 ```
 
 ¡Mira la variedad de operaciones de aumento disponibles!
@@ -389,9 +389,9 @@ Nota: además de ImageDataGenerator, existen muchas otras opciones para realizar
 
 
 
-## Normalización por lotes: hacer que los modelos sean más rápidos y estables
+## Normalización por lotes de datos: hacer que los modelos sean más rápidos y estables
 
-### Normalización por lotes: ¿Qué y por qué?
+### Normalización por lotes de datos: ¿Qué y por qué?
 
 
 
@@ -415,7 +415,7 @@ Nota: además de ImageDataGenerator, existen muchas otras opciones para realizar
 
 
 
-### Normalización por lotes: ¿Cómo?
+### Normalización por lotes de datos: ¿Cómo?
 
 Aplicar la normalización por lotes es tan simple como agregar una capa llamada BatchNormalization() después de la capa de convolución. Se puede agregar a cualquier red neuronal.
 
