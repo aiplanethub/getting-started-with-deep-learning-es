@@ -12,8 +12,7 @@ Hasta ahora, ha trabajado con perceptrones multicapa (MLP).
 
 Los MLP son excelentes para MNIST, un conjunto de datos más simple y directo, pero están rezagados con respecto a las CNN cuando se trata de aplicaciones del mundo real en visión artificial, específicamente clasificación de imágenes.
 
-Los conceptos que hacen que CNN sea tan genial no son complejos, pero son
-Muy intuitivo, lógico y fácil de entender.
+Los conceptos que hacen que CNN sea tan genial no son complejos, pero son muy intuitivos, lógicos y fáciles de entender.
 
 ## Invariancia espacial/de traducción
 La invariancia espacial o de traducción significa que si un objeto aparece en cualquier imagen, se detectará independientemente de su posición.
