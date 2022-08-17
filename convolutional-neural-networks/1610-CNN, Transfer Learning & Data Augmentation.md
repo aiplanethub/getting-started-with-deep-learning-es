@@ -335,7 +335,7 @@ Su modelo para detectar una mariposa debería poder encontrar una mariposa en la
 2. Rotación
 3. Escala
 4. Recortar
-5. Traducción
+5. Traslación
 6. Color variable
 7. Agregar ruido
 8. Ajuste de brillo
