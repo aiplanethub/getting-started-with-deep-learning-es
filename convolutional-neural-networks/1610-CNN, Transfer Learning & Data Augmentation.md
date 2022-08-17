@@ -140,6 +140,15 @@ Esta parte asigna una probabilidad de que el objeto (por ejemplo, la cebra) est�
 ![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_12e471c9f8a74106b99f9a5b60045d84.png)
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Entrada | Convolución + RELU | Agrupamiento | Convolución + RELU | Agrupamiento | Aplanar | Totalmente conectadas | Softmax
+
+Capas ocultas | Clasificación
+
+Auto, Camión, Van, ..., Bicicleta
+
+---
 
 
 
@@ -251,6 +260,11 @@ Esto explica brillantemente cómo un kernel/filtro hace posible la convolución.
 
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Caras | Autos | Elefantes | Sillas
+
+---
 
 
 Las funciones anteriores de ConvNet contienen funciones más genéricas (por ejemplo, detectores de bordes o detectores de manchas de color), pero las capas posteriores de ConvNet se vuelven cada vez más específicas para los detalles de las clases contenidas en el conjunto de datos original.
@@ -287,6 +301,15 @@ Por ejemplo, el conocimiento adquirido al aprender a reconocer automóviles se p
 
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Aprendizaje Profundo | Transferencia de Aprendizaje
+
+(horas/dias) | (minutos)
+
+
+
+---
 
 
 
