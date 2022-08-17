@@ -106,7 +106,17 @@ Dominio del problema.
 
 Adquisición de imagenes.
 
+Mejora de las imagenes.
 
+Restauración de las imagenes.
+
+Procesamiento morfológico (forma).
+
+Segmentación.
+
+Reconocimiento e objetos.
+
+Representación y descripción.
 
 ---
 
