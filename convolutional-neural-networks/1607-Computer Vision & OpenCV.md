@@ -74,8 +74,15 @@ Cada píxel contiene un número diferente de canales, y los canales están asoci
 | ![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_fff853435a574068927daaf08569f15c.png) | ![imagen.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_392006567fce44e0b69258d1f9dc400e.png) |
 | --- | --- |
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+¿Cómo crear colores con RGB?.
 
+Combina partes de los tres colores primarios, rojo, verde y azul.
 
+Cada uno de los colores primarios tiene un valor en el rango desde 0 a 255.
+
+---
 
 
 
@@ -99,6 +106,10 @@ Considere la siguiente imagen:
 
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+Cada matriz (el bloque rectangular)
+---
 
 Nota: También existen imágenes con 4, 5 o más canales. Una imagen puede tener hasta 56 canales.
 
