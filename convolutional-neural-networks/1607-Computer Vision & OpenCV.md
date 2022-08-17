@@ -108,7 +108,8 @@ Considere la siguiente imagen:
 
 La traducción de la imagen anterior se presenta a continuación.
 ---
-Cada matriz (el bloque rectangular)
+Cada matriz (el bloque rectangular) aquí pertenece o al Rojo, al Verde o al Azul. Esas 3 matrices se combinan para formar 1 imagen a color.
+
 ---
 
 Nota: También existen imágenes con 4, 5 o más canales. Una imagen puede tener hasta 56 canales.
@@ -195,7 +196,16 @@ El aprendizaje profundo proporcionó un enfoque fundamentalmente diferente para 
 
 
 _Image source: zbigatron_
-### DL - La estrella de la Vision por Computadora
+
+La traducción de la imagen anterior se presenta a continuación.
+---
+Visión por Computadora Tradicional.
+
+Aprendizaje Profundo.
+
+---
+
+### DL - La estrella de la Visión por Computadora
 El aprendizaje profundo es un método muy efectivo para hacer visión artificial. En la mayoría de los casos, la creación de un excelente algoritmo de aprendizaje profundo se reduce a recopilar una gran cantidad de datos de entrenamiento etiquetados y ajustar parámetros como el tipo y la cantidad de capas de redes neuronales y épocas de entrenamiento. En comparación con los tipos anteriores de aprendizaje automático, el aprendizaje profundo es más fácil y rápido de desarrollar e implementar.
 
 La mayoría de las aplicaciones actuales de visión por computadora, como la detección de cáncer, los automóviles autónomos y el reconocimiento facial, utilizan el aprendizaje profundo. Gracias a la disponibilidad y los avances en hardware y recursos de computación en la nube, el aprendizaje profundo y las redes neuronales profundas han pasado del ámbito conceptual a las aplicaciones prácticas.
