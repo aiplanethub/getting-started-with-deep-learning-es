@@ -1,7 +1,7 @@
 ## Objetivos de aprendizaje
 
 * Red adversaria generativa (GAN)
-* Autocodificadores
+* Autoencoders (Auto codificadores)
 * Redes Neuronales como Aproximadores Universales
 * Red neuronal recurrente (RNN)
 * Memoria a corto plazo (LSTM)
@@ -220,7 +220,7 @@ La red aprende a generar a partir de una distribución de entrenamiento a travé
 
 Como puede identificar por sus nombres, se usa un generador para generar imágenes que parecen reales, y el trabajo del discriminador es determinar cuál es falso. No hay necesidad de entrar en sus detalles en este momento. ¡Simplemente disfruta de la gloria de las GAN!
 
-## Falsificaciones profundas
+## DeepFakes
 
 DeepFakes crea engaños convincentes de imágenes, audio y video.
 
@@ -261,7 +261,7 @@ Ahora, ¡están trabajando para detectarlos!
 
 
 
-### Aplicaciones de los Autocodificadores
+### Aplicaciones de los Autoencoders
 
 
 * Reducción de dimensionalidad
@@ -280,8 +280,7 @@ https://pythonprogramming.net/recurrent-neural-network-deep-learning-python-tens
 * Codificador automático con Tensorflow 2.0:
 https://www.geeksforgeeks.org/ml-autoencoder-with-tensorflow-2-0/
 
-Eso es solo la punta del iceberg. Hay muchos mas
-redes neuronales por ahí!
+Eso es solo la punta del iceberg. Hay muchas más redes neuronales por ahí!
 
 Por nombrar algunos más:
 * Máquina Boltzmann
@@ -291,7 +290,7 @@ Por nombrar algunos más:
 
 No, no es necesario sumergirse en todos ellos ahora. Repase los que hemos explicado anteriormente; si encuentra algunos de ellos interesantes, lea sobre ellos e intente implementarlos.
 
-Si no, sigue perfeccionando tus habilidades para construir modelos MLP y CNN. Cubriremos temas avanzados de Deep Learning como los mencionados en las diapositivas anteriores en el futuro Deep Learning Bootcamp.
+Si no, sigue perfeccionando tus habilidades para construir modelos MLP y CNN. Cubriremos temas avanzados de Deep Learning como los mencionados anteriormente en las diapositivas en un futuro Deep Learning Bootcamp.
 
 Estén atentos para saber cuándo sucede eso :)
 
