@@ -315,7 +315,7 @@ Esta es esencialmente la premisa del aumento de datos. En un escenario del mundo
 
 ¡También es uno de los métodos para evitar el sobreajuste!
 
-_Tu red neuronal es tan buena como los datos que la alimentas._
+_Tu red neuronal es tan buena como los datos con que la alimentas._
 
 Realizar el aumento puede evitar que su red neuronal aprenda patrones irrelevantes, lo que esencialmente aumenta el rendimiento general.
 
