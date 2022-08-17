@@ -239,6 +239,23 @@ La visión por computadora también juega un papel importante en las aplicacione
 
 
 
+La traducción de la imagen anterior se presenta a continuación.
+---
+N0: Una persona.
+
+Genero: Femenino.
+
+Grupo Etario: Mujer joven.
+
+Etnia: Caucásica.
+
+Parte del cuerpo humano: Cara humana.
+
+Tiempo: 331 S
+
+Detección: 25621 puntos.
+
+---
 
 
 #### CV en Salud
