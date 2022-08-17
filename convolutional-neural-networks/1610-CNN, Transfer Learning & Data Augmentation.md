@@ -14,7 +14,7 @@ Los MLP son excelentes para MNIST, un conjunto de datos más simple y directo, p
 
 Los conceptos que hacen que CNN sea tan genial no son complejos, pero son muy intuitivos, lógicos y fáciles de entender.
 
-## Invariancia espacial/de traducción
+## Invariancia espacial/traslación
 La invariancia espacial o de traducción significa que si un objeto aparece en cualquier imagen, se detectará independientemente de su posición.
 
 Un gato sigue siendo un gato independientemente de si aparece en la mitad superior o inferior de la imagen.
