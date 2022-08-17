@@ -4,7 +4,7 @@
 * Autocodificadores
 * Redes Neuronales como Aproximadores Universales
 * Red neuronal recurrente (RNN)
-* Memoria a corto plazo largo (LSTM)
+* Memoria a corto plazo (LSTM)
 * Unidad Recurrente Cerrada (GRU)
 
 
