@@ -2,3 +2,5 @@ Las diapositivas de la sesión se pueden encontrar [aquí](https://github.com/dp
 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YyoSuP_aFN8" title="Reproductor de video de YouTube" frameborder="0" allow="acelerómetro; reproducción automática; portapapeles -escribir; medios cifrados; giroscopio; imagen en imagen" allowfullscreen></iframe>
+
+La versión transcrita del video puede ser encontrada en:
