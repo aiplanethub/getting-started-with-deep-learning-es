@@ -5,4 +5,4 @@ Las diapositivas de la sesión se pueden encontrar [aquí](https://github.com/dp
 
 La versión transcrita del video puede ser encontrada en:
 
-https://drive.google.com/file/d/1QZh6D3f4DLNz5M2VND90mDkOPXLj9gWa/view?usp=sharing
+(https://drive.google.com/file/d/1QZh6D3f4DLNz5M2VND90mDkOPXLj9gWa/view?usp=sharing)
